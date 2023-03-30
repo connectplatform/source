@@ -7,7 +7,8 @@ Here is a list of people who participated in the development of the Connect Plat
 - Vitaly Shutko - Connect CTO, 2015-2016, 2018-2019
 - Oleg Zinchenko - Connect CTO, 2014-2015, 2016-2018
 - Alex Nedavnikh - Connect COO, 2014-2017
-- Nick Whale - Lead designer, 2014-2017
+- Nick Whale - Lead designer, 2014-2016, 2018-2019
+- Lubomir Kolomiets - Designer, 2016-2017
 - Gregory Kosenko - Connect COO, 2018-2019
 - Eugene Lopatenko - Erlang, calls
 - Alexey Novikov - Ionic/js, web-version
